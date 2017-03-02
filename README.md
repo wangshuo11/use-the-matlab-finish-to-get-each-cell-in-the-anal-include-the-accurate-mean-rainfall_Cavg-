@@ -1,0 +1,2 @@
+# use-the-matlab-finish-to-get-each-cell-in-the-anal-include-the-accurate-mean-rainfall_Cavg-
+use the matlab finish to get each cell in the anal ,include the accurate mean rainfall_Cavg . there are three thresholds :threshold_rainfall,threshold_area,threshold_counters_pixels,  use three thresholds may have a better a results ,but maybe change the parameters would get better results ,one thing is the fitellipse.m which is download from the internet and changed the usage in order to use in the projects
